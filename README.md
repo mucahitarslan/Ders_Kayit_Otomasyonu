@@ -49,3 +49,4 @@ Proje, yapısal programlama prensiplerine uygun olarak `struct` yapıları ve po
 2. Aşağıdaki komutu çalıştırın:
    ```bash
    gcc projem.c -o otomasyon
+   ./otomasyon
